@@ -12,4 +12,5 @@ mngwa de
 bhi
 
 meri
+bhi mgwa dijiye
  
