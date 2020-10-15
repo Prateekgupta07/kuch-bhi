@@ -12,4 +12,5 @@ mngwa de
 bhi
 
 meri
+mere liye
  
