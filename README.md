@@ -12,5 +12,17 @@ mngwa de
 bhi
 
 meri
+
 bhi mgwa dijiye
+
+
+mere liye
+
+
+ek tshirt 
+
+engineer shb
+
+
  
+
