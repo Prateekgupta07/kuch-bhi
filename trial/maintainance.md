@@ -7,6 +7,7 @@ Screws should be re-tightened as needed. Check all belt pulley screws and tighte
 NOT PERFORMING THIS TASK CAN LEAD TO:
 ------------------------------------
 •	Dust accumulation and impairment of movement
+
 •	Electronic malfunction due to damaged cables and connectors
 
 Axis & Guide Checks
@@ -18,7 +19,9 @@ Keep in mind that WD-40 is not a lubricant! Applying it to your linear rods and 
 NOT PERFORMING THIS TASK CAN LEAD TO:
 -------------------------------------
 •	Excessive noise
+
 •	Layer lines on the printed object
+
 •	Stepper motors overheating
 
 Belt Tension Alignment
@@ -30,7 +33,9 @@ The timing belts used in desktop 3D printers are usually made of rubber and some
 NOT PERFORMING THIS TASK CAN LEAD TO:
 ------------------------------------
 •	Layer shifting
+
 •	Backlash issues
+
 •	Dimensionally-inaccurate prints, either bigger or small than they should be.
 
 Nozzle Care
@@ -38,24 +43,32 @@ Nozzle Care
 Pay special attention to your printer’s nozzle. Even without a clog, the nozzle can externally become quite dirty. This could potentially ruin a print with blobs and also fill the room with that awful burnt-plastic smell.
  ROUTINE NOZZLE CLEANING
 Try and keep the nozzle as clean as possible. Heat it up and use a wire brush to remove all melted and unmelted plastic that’s been accumulating over successive prints. Small pliers or thick cloths could also be used, but just be very careful not to burn yourself
+
 Note: If you’re using a wire brush, it’s recommended to turn your printer off, as the extra metal can cause shorts between powered components. (There are even reports of some damaging their mainboards.)
+------------------------------
 
 NOT PERFORMING THIS TASK CAN LEAD TO:
 -------------------------------------
 •	Extrusion issues, such as under-extrusion and over-extrusion
+
 •	Clogging and oozing
+
 •	Blobs and zits
 
 Build Platform Check
 ====================
 Dust and grime accumulate very easily, and even the organic oils present in our fingertips is enough to ruin plastic adhesion. For glass beds, cleaning alcohol like IPA is recommended.
+
 BED LEVELING
+-----------
 Once cleaned, make sure the bed is leveled. That’s also a good idea even when auto-leveling is used. For those using high thermal contraction materials like nylon or PC, perhaps PEI sheets or a hardware upgrade like a new heated bed may be suitable.
 
 NOT PERFORMING THIS TASK CAN LEAD TO:
 -------------------------------------
 •	Warping
+
 •	Uneven first layers
+
 •	Poor first layer adhesion
 
 Filament Care
@@ -65,7 +78,9 @@ Small dust particles may accumulate on the filament depending on how the spools 
 NOT PERFORMING THIS TASK CAN LEAD TO:
 ------------------------------------
 •	Nozzle clogging and oozing
+
 •	Friction buildup on Bowden tubes
+
 •	Stringing due to moisture-filled filaments
 
 Calibration
@@ -76,5 +91,7 @@ If it’s been a long time since your last thorough calibration, we strongly sug
 NOT PERFORMING THIS TASK CAN LEAD TO:
 -------------------------------------
 •	Low-quality prints
+
 •	Extrusion issues, such as under-extrusion and over-extrusion
+
 •	Overheating
