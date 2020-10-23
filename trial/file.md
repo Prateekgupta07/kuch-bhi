@@ -34,6 +34,7 @@ Thermoplastic polyurethane(TPU)
 Thermoplastic polyurethane(TPU) is a plastic with rubber-like qualities, making it very flexible and durable. Think of TPU as a hybrid between hard plastic and soft silicone.
 It is used because it is stretchable, flexible and durable.
 Acrylonitrile Styrene Acrylate(ASA)
+----------------------------------
 ASA is a UV-stable thermoplastic used to build strong and long-lasting functional parts. It is weather resistant and typically used in outdoor and automotive applications.
 It is used because it is impact resistant, weather resistant and is UV stable.
 
