@@ -1,5 +1,5 @@
 
-What is 3d printing?
+#What is 3d printing?
 
 3D printing is a process for making a physical object from a three-dimensional digital model. This is typically done by laying down many successive thin layers of a material, also known as additive manufacturing.
 	 https://youtu.be/b6k-e3PJYDg
