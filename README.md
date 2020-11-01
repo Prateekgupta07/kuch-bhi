@@ -51,11 +51,3 @@ hello
 munna amar h
 
 september
-
-october
-
-november
-
-december
-
-january
