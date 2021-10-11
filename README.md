@@ -10,4 +10,4 @@ its a library used to make single page webpages.
 it uses css, bootstrap and its so simple and fast that anyone can learn it easily
 there are two things with state and stateless
 with state are used in class while stateless are used in functions
-
+if we want to use states in function then we can use hooks to do so, as making class again and again is not a good habit so hooks are used to do so
