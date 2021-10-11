@@ -7,4 +7,5 @@ permissions like recieve sms is also not required while using broadcast
 the permissions like read sms and call logs are the core permissions and are available in use only for old customers by google.
 something about REACTJS
 its a library used to make single page webpages.
+it uses css, bootstrap and its so simple and fast that anyone can learn it easily
 
