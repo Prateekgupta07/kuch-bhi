@@ -8,4 +8,6 @@ the permissions like read sms and call logs are the core permissions and are ava
 something about REACTJS
 its a library used to make single page webpages.
 it uses css, bootstrap and its so simple and fast that anyone can learn it easily
+there are two things with state and stateless
+with state are used in class while stateless are used in functions
 
