@@ -12,3 +12,4 @@ there are two things with state and stateless
 with state are used in class while stateless are used in functions
 if we want to use states in function then we can use hooks to do so, as making class again and again is not a good habit so hooks are used to do so
 We can make our local api and then test it on postman.
+If we wanna fetch some details from api we can simply use GET operation and can get the particular information from that
