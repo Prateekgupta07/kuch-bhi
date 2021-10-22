@@ -15,3 +15,4 @@ We can make our local api and then test it on postman.
 If we wanna fetch some details from api we can simply use GET operation and can get the particular information from that
 Other then GET,we have PUT, POST, DELETE operations used according to our needs
 For further details you can check the official page of reactJS
+hacktober fest pr 1
