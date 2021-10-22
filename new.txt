@@ -1,2 +1,3 @@
 aal is well
 be attentive
+do some cp at interviewbit or leetcode
